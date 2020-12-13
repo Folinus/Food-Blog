@@ -9,8 +9,8 @@ disqusShortname = "yourdiscussshortname"
 # Theme specific configuration
 [params]
 logo = "img/logo.png"
-enableDisqus = true # enable / disable comments for blog posts
-enableGA = true # enable / disable google analytics
+enableDisqus = false # enable / disable comments for blog posts
+enableGA = false # enable / disable google analytics
 heroText = "We Love <br> Delicious Foods !"
 footerText = "This area supports HTML code. Text can be edited with <code>footerText</code> value in config.toml"
 facebook = "https://facebook.com"
