@@ -505,3 +505,7 @@ a:hover {
     height: 500px; } }
 
 /*=====  End of RESPONSIVE  ======*/
+
+.hero-carousel .owl-nav {
+  display: none;
+}
