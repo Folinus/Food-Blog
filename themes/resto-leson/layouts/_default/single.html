@@ -1,7 +1,8 @@
 {{define "main" }}
-<section class="container">
+<section class="container mb-4">
     {{ if eq .Section "blog"}}
-        <h2 class="text-center">{{ .Title }}</h2>
+        <div class="pb-4">
+            <h2 class="text-center">{{ .Title }}</h2>
             <!-- <small class="text-secondary">Published on: {{.PublishDate.Format "January 2, 2006"}} | {{.ReadingTime}} minute read</small><br> 
             <small class="text-secondary">Tags: </small>
                 {{- range .Params.categories -}}
@@ -11,7 +12,8 @@
                 
             {{if .Site.Params.enableDisqus}}
                     {{ template "_internal/disqus.html" . }}
-            {{end}}           
+            {{end}}    
+        </div>       
     {{else}}
 
     <h2 class="text-center">{{.Title}}</h2>

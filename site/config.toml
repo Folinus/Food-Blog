@@ -13,8 +13,8 @@ logo = "img/pot.png"
 enableDisqus = false # enable / disable comments for blog posts
 enableGA = false # enable / disable google analytics
 heroText = "the \"if i die tomorrow\" cookbook"
+heroTextHome = "the <br>\"if i die tomorrow\" <br> cookbook"
 footerText = "This area supports HTML code. Text can be edited with <code>footerText</code> value in config.toml"
 facebook = "https://facebook.com"
 twitter = "https://twitter.com"
 instagram = "https://instagram.com"
-
