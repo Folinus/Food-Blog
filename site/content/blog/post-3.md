@@ -1,7 +1,7 @@
 ---
 title: "Caesar Salad"
 date: 2020-12-18T12:13:30+05:30
-tags: [Salads]
+categories: [Salads]
 ---
 
 * 1/4 cup olive oil  

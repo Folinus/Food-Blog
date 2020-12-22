@@ -56,7 +56,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="{{ .Site.BaseURL }}blog" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">Recipes</a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                {{range ($.Site.GetPage "taxonomyTerm" "tags").Pages }}
+                                {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
                                   <a class="dropdown-item" href="{{.Permalink}}">{{.Title}}</a>
                                 {{ end }}
                             </div>
@@ -73,7 +73,7 @@
                             <a class="nav-link" href="{{ .Site.BaseURL }}#gtco-team">Author</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ .Site.BaseURL }}tags">Categories</a>
+                            <a class="nav-link" href="{{ .Site.BaseURL }}categories">Categories</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" target="_blank" href="https://www.blurb.com/bookstore/invited/8834584/2a93c0ad1c6b4f9fc5e3ff23ccf102c5b876c87e">Cookbook</a>

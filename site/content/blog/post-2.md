@@ -1,7 +1,7 @@
 ---
 title: "Sweet Potato, Apple, and Red Lentil Soup"
 date: 2020-12-18T12:13:30+05:30
-tags: [Soups and a Sandwich]
+categories: [Soups and a Sandwich]
 ---
 
 * 2 tbsp butter  

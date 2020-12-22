@@ -1,7 +1,7 @@
 ---
 title: "Ski Lodge Chili"
 date: 2020-12-18T12:13:30+05:30
-tags: [Side Dishes]
+categories: [Side Dishes]
 ---
 
 * 1/2 lb ground beef  

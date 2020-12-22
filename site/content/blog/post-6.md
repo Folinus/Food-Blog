@@ -1,7 +1,7 @@
 ---
 title: "Sausage and Peppers"
 date: 2020-12-18T12:13:30+05:30
-tags: [Main Dishes]
+categories: [Main Dishes]
 ---
 
 * 3 tbsp olive oil  

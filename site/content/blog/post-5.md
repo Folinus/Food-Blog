@@ -1,7 +1,7 @@
 ---
 title: "Shrimp with Basil Cream and Orzo"
 date: 2020-12-18T12:13:30+05:30
-tags: [Pasta]
+categories: [Pasta]
 ---
 
 * 2 tbsp olive oil  
