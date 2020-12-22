@@ -11,3 +11,18 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    min: 1
+    max: 
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Breakfast
+    - Soups and a Sandwich
+    - Salads
+    - Appetizers
+    - Pasta
+    - Main Dishes
+    - Side Dishes
+    - Desserts
