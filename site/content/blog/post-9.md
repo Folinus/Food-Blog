@@ -1,5 +1,5 @@
 ---
-title: "Ski Lodge Chili 2"
+title: "Ski Lodge Chili"
 date: 2020-12-18T12:13:30+05:30
 categories: [Soups and a Sandwich]
 ---
