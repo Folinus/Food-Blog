@@ -1,11 +1,17 @@
 ---
-title: "Hugo shortcodes"
-date: 2018-03-18T12:13:36+05:30
-description: Here is a demo of all shortcodes available in Hugo.
+title: "Sausage and Peppers"
+date: 2020-12-18T12:13:30+05:30
+tags: [Main Dishes]
 ---
 
-## Images
+* 3 tbsp olive oil  
+* 1/2 onion, sliced  
+* 2 bell peppers, seeded and sliced 
+* 4 garlic cloves, minced 
+* 4 sweet Italian sausages 
+* 14 oz can whole tomatoes 
+* 2 tbsp fresh oregano or basil
 
-{{< figure src="https://images.unsplash.com/photo-1560032779-0a8809186efd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" title="Dave Herring" >}}
+Heat olive oil in a frying pan over medium heat. Sauté onion and peppers, cooking until softened. Add garlic and cook for 30 seconds or until fragrant. Move vegetables to a plate.
 
-{{< figure src="https://images.unsplash.com/photo-1560032779-0a8809186efd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80" title="Dave Herring" >}}
+Cook sausages, rolling to brown all sides, until they reach an internal temperature of 165°. Return vegetables to the pan and add tomatoes along with oregano or basil. Cook for about 20 minutes, or until the tomatoes soften and being to break down. Serve alone, in a soft roll, or atop spaghetti.

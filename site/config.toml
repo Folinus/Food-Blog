@@ -1,17 +1,18 @@
 baseURL = "https://happy-hopper-684520.netlify.app/"
+bookURL = "https://www.blurb.com/bookstore/invited/8834584/2a93c0ad1c6b4f9fc5e3ff23ccf102c5b876c87e"
 languageCode = "en-us"
-title = "Resto Hugo - Port of resto theme for hugo"
+title = "the \"if i die tomorrow\" cookbook"
 theme = "resto-hugo"
-copyright = "&copy 2019 Resto Hugo" # HTML tags supported
+copyright = "&copy 2020 Leson" # HTML tags supported
 googleAnalytics = "UA-123-45"
 disqusShortname = "yourdiscussshortname"
 
 # Theme specific configuration
 [params]
-logo = "img/logo.png"
+logo = "img/pot.png"
 enableDisqus = false # enable / disable comments for blog posts
 enableGA = false # enable / disable google analytics
-heroText = "We Love <br> Delicious Foods !"
+heroText = "the \"if i die tomorrow\" cookbook"
 footerText = "This area supports HTML code. Text can be edited with <code>footerText</code> value in config.toml"
 facebook = "https://facebook.com"
 twitter = "https://twitter.com"
