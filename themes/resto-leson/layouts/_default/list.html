@@ -7,14 +7,14 @@
             {{end}}
         {{else}}
             <div class="container row">
-                    {{range .Pages}}
-                    <div class="container-fluid col-md-5 m-3">
-                        <h5><a href="{{.Permalink}}">{{ .Title }}</a></h5>
-                        {{if eq .Section "blog"}}
-                        <small class="text-secondary">Published on: {{.PublishDate.Format "January 2, 2006"}} | {{.ReadingTime}} minute read</small>    
-                        {{end}}
-                    </div>     
+                {{range .Pages}}
+                <div class="container-fluid col-md-5 m-3">
+                    <h5><a href="{{.Permalink}}">{{ .Title }}</a></h5>
+                    {{if eq .Section "blog"}}
+                    <small class="text-secondary">Published on: {{.PublishDate.Format "January 2, 2006"}} | {{.ReadingTime}} minute read</small>    
                     {{end}}
+                </div>     
+                {{end}}
             </div>
     {{end }}
 </section>
