@@ -6,12 +6,6 @@ title = "Sausage and Peppers"
 
 +++
 
----
-title: "Sausage and Peppers"
-date: 2020-12-18T12:13:30+05:30
-categories: [Main Dishes]
----
-
 * 3 tbsp olive oil  
 * 1/2 onion, sliced  
 * 2 bell peppers, seeded and sliced 

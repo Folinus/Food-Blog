@@ -1,4 +1,5 @@
----
-title: "the \"if i die tomorrow\" cookbok"
-date: 2019-10-23T16:31:33+05:30
----
++++
+date = 2020-12-23T05:00:00Z
+draft = false
+title = "the \"if i die tomorrow\" cookbok"
++++
