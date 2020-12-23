@@ -27,6 +27,7 @@ fields:
     - Side Dishes
     - Desserts
 pages:
+- site/content/blog/angela-s-apples.md
 - site/content/blog/asparagus-soup.md
 - site/content/blog/au-gratin-potatoes.md
 - site/content/blog/aunt-irene-s-dill-pickles.md
