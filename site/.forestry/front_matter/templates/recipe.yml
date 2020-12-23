@@ -27,6 +27,7 @@ fields:
     - Side Dishes
     - Desserts
 pages:
+- site/content/blog/baba-ganoush.md
 - site/content/blog/biscuits-and-gravy.md
 - site/content/blog/cauliflower-soup.md
 - site/content/blog/classic-chicken-soup-with-rosemary.md
