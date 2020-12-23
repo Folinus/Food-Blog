@@ -1,10 +1,11 @@
----
-title: "Ski Lodge Chili"
-date: 2020-12-18T12:13:30+05:30
-categories: [Side Dishes]
----
++++
+categories = ["Soups and a Sandwich"]
+date = 2020-12-22T05:00:00Z
+draft = true
+title = "Ski Lodge Chili"
 
-* 1/2 lb ground beef  
++++
+* 1/2 lb ground beef
 * 1/2 lb sweet Italian sausage  
 * 1 onion, diced  
 * 3 garlic cloves, diced  
