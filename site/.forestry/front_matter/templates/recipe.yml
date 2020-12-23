@@ -28,6 +28,7 @@ fields:
     - Desserts
 pages:
 - site/content/blog/biscuits-and-gravy.md
+- site/content/blog/dutch-babies.md
 - site/content/blog/french-toast.md
 - site/content/blog/huevos-rancheros.md
 - site/content/blog/sausage-quiche.md
