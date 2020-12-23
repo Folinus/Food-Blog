@@ -76,6 +76,7 @@ module.exports = function(grunt) {
         };
 
         grunt.file.write("site/public/js/lunr/PagesIndex.json", JSON.stringify(indexPages()));
+        grunt.file.write("themes/resto-leson/static/js/lunr/PagesIndex.json", JSON.stringify(indexPages()));
         grunt.log.ok("Index built");
     });
 };

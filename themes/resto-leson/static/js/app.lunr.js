@@ -85,7 +85,7 @@ function renderResults(results) {
 
     // Only show the ten first results
     results.slice(0, 10).forEach(function(result) {
-        var $result = $("<li>");
+        var $result = $("<span>").addClass('search-results');
         $result.append($("<a>", {
             href: result.href,
             text: "» " + result.title
