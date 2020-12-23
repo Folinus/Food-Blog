@@ -1,3 +1,11 @@
++++
+categories = ["Main Dishes"]
+date = 2020-12-22T05:00:00Z
+draft = false
+title = "Sausage and Peppers"
+
++++
+
 ---
 title: "Sausage and Peppers"
 date: 2020-12-18T12:13:30+05:30

@@ -1,9 +1,10 @@
----
-title: "Shrimp with Basil Cream and Orzo"
-date: 2020-12-18T12:13:30+05:30
-categories: [Pasta]
----
++++
+categories = ["Pasta"]
+date = 2020-12-22T05:00:00Z
+draft = false
+title = "Shrimp with Basil Cream and Orzo"
 
++++
 * 2 tbsp olive oil  
 * 2 garlic cloves, chopped  
 * 1/2 yellow onion, sliced  
