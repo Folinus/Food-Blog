@@ -27,4 +27,5 @@ fields:
     - Side Dishes
     - Desserts
 pages:
+- site/content/blog/spanish-tortilla.md
 - site/content/blog/spinach-omelette.md
