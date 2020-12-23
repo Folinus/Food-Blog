@@ -27,5 +27,6 @@ fields:
     - Side Dishes
     - Desserts
 pages:
+- site/content/blog/sausage-quiche.md
 - site/content/blog/spanish-tortilla.md
 - site/content/blog/spinach-omelette.md
