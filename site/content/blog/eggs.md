@@ -1,9 +1,10 @@
----
-title: Eggs
-date: 2019-10-23T16:31:33.000+05:30
-categories: [Breakfast]
++++
+categories = ["Breakfast"]
+date = 2020-12-23T05:00:00Z
+draft = false
+title = "Eggs"
 
----
++++
 
 Soft-scrambled or hard, sunny-side up, over easy, or poached. Omelettes, tortillas, quiches, huevos rancheros, and shakshuka—all of these are magical ways to serve an egg. The most important thing to remember about eggs: they like slow cooking over low heat in a non stick pan. If you can wait for them to set or cook before disturbing them, your breakfasts will be delicious!
 
