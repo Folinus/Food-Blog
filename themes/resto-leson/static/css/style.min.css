@@ -509,3 +509,7 @@ a:hover {
 .hero-carousel .owl-nav {
   display: none;
 }
+
+.testi-item {
+  margin: 0 3rem;
+}
