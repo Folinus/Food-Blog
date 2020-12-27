@@ -5,12 +5,12 @@ title = "the \"if i die tomorrow\" cookbook"
 theme = "resto-leson"
 copyright = "&copy 2020 Leson" # HTML tags supported
 googleAnalytics = "UA-123-45"
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "ifidietomorrow"
 
 # Theme specific configuration
 [params]
 logo = "img/pot.png"
-enableDisqus = false # enable / disable comments for blog posts
+enableDisqus = true # enable / disable comments for blog posts
 enableGA = false # enable / disable google analytics
 heroText = "the \"if i die tomorrow\" cookbook"
 heroTextHome = "the <br>\"if i die tomorrow\" <br> cookbook"
