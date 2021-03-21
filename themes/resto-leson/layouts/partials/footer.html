@@ -21,11 +21,9 @@
 	<script src="{{ "js/featherlight.min.js" | absURL}}" ></script>
 	<script src="{{ "js/tempusdominus-bootstrap-4.min.js" | absURL}}" ></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/1.0.0/lunr.min.js" integrity="sha512-c0gfTQFunqkbrbIC8XU4qJ57iA0R8SLZ9F39e33DUHVOa50kVv1QyYSUVCK9gb/AoBoJBlIc6prk7SbahLxy1w==" crossorigin="anonymous"></script>
-	{{if .IsHome }}
 	<!--Main JS --> 
 	<script src="{{ "js/app.min.js"  | absURL}}"></script>
 	<script src="{{ "js/app.lunr.js"  | absURL}}"></script>
-	{{end}}
 	<!--Google Analytics-->
 	{{ if .Site.Params.enableGA }}
 		{{ template "_internal/google_analytics.html" . }}
